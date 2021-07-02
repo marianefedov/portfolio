@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marianefedov/portfolio/static/css/main.9870f7ca.chunk.css",
+    "main.js": "/marianefedov/portfolio/static/js/main.0a6dd3fe.chunk.js",
+    "main.js.map": "/marianefedov/portfolio/static/js/main.0a6dd3fe.chunk.js.map",
+    "runtime-main.js": "/marianefedov/portfolio/static/js/runtime-main.a6b64f58.js",
+    "runtime-main.js.map": "/marianefedov/portfolio/static/js/runtime-main.a6b64f58.js.map",
+    "static/js/2.63a0378e.chunk.js": "/marianefedov/portfolio/static/js/2.63a0378e.chunk.js",
+    "static/js/2.63a0378e.chunk.js.map": "/marianefedov/portfolio/static/js/2.63a0378e.chunk.js.map",
+    "static/js/3.a3989700.chunk.js": "/marianefedov/portfolio/static/js/3.a3989700.chunk.js",
+    "static/js/3.a3989700.chunk.js.map": "/marianefedov/portfolio/static/js/3.a3989700.chunk.js.map",
+    "index.html": "/marianefedov/portfolio/index.html",
+    "static/css/main.9870f7ca.chunk.css.map": "/marianefedov/portfolio/static/css/main.9870f7ca.chunk.css.map",
+    "static/js/2.63a0378e.chunk.js.LICENSE.txt": "/marianefedov/portfolio/static/js/2.63a0378e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6b64f58.js",
+    "static/js/2.63a0378e.chunk.js",
+    "static/css/main.9870f7ca.chunk.css",
+    "static/js/main.0a6dd3fe.chunk.js"
+  ]
+}
