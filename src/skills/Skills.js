@@ -14,8 +14,8 @@ const Skills = () => {
                     <Skill title={'JS'} description={desc}/>
                     <Skill title={'CSS'} description={desc}/>
                     <Skill title={'React'} description={desc}/>
-                    <Skill title={'React'} description={desc}/>
-                    <Skill title={'React'} description={desc}/>
+                    {/*<Skill title={'React'} description={desc}/>*/}
+                    {/*<Skill title={'React'} description={desc}/>*/}
                 </div>
             </div>
        </div>
